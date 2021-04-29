@@ -1,6 +1,9 @@
 <a href="mailto:carlossouzash@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/carloshenriquesouzasilva/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 #### I'm a full-stack developer(focused more on the backend) and cybersecurity lover for web. I worry about building something safe and functional!!
  
