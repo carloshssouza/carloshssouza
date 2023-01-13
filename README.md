@@ -9,7 +9,7 @@
  
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🖥 I'm currently work in [Tech4Humans](https://www.tech4h.com.br) as a developer.
-- 📒 I’m constantly learning and improving my skills in NodeJS, Typescript and PostgreSQL
+- 📒 I’m constantly learning and improving my skills in NodeJS, Javascript/Typescript, PostgreSQL, MongoDB, ReactJS
 - 📘 I’m constantly learning and improving my skills about Web Security(Vulnerabilities and Secure Coding) 💻 🔐 
 
 #### “The beautiful thing about learning is that nobody can take it away from you.”
